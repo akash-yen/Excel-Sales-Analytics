@@ -4,8 +4,8 @@
 ## Sales Report:
 
 - **Project Objective:**
-  1. Create a [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
-  2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+  1. Create a [Customer Performance Report](https://github.com/akash-yen/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf).
+  2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/akash-yen/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 - **Purpose of Sales Analytics:**  
   Empower businesses to monitor and evaluate their sales activities and performance.
@@ -23,8 +23,8 @@
 ## Finance Report:
 
 - **Project Objective:**
-  1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).
-  2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+  1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/akash-yen/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Months](https://github.com/akash-yen/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
+  2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/akash-yen/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 - **Purpose of Finance Analytics:**  
   Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
